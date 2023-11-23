@@ -197,6 +197,7 @@ By following these steps, users can fully utilize the blogging platform to creat
 
 ## API Endpoints
 Once the application is up and running, you can access the user interface and API endpoints. Here's how to use the system:
+![Swagger APIs](https://github.com/RajAnand132/BlogSynergy/blob/master/Blog.jpg)
 
 #### Access the Application
 
