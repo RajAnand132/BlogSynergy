@@ -127,7 +127,7 @@ Before getting started, ensure you have the following installed on your system:
 
 ## Database Diagram
 
-![Database Diagram]()
+![Database Diagram](https://github.com/RajAnand132/BlogSynergy/blob/master/DataBase%20design.png)
 
 ## Getting Started
 
